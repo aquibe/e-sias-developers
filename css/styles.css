@@ -10,10 +10,10 @@
 }
 
 
-.heading-body{
+.container-fluid h1{
   color: white;
-  
-  margin-bottom:7% ;
+  font-size: 75px;
+  margin-bottom: 60px;
   text-align: center;
 }
 
